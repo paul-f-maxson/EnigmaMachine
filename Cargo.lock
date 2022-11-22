@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "EnigmaMachine"
+name = "enigma_machine"
 version = "0.1.0"
